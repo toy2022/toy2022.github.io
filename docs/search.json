@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Trokon Omarley Yeabah is a public health professional with a strong background in data collection, curation, analysis, and management. With expertise in implementing integrated disease surveillance and response activities, he is passionate about sharing insights and experiences to inform and inspire meaningful conversations in the field of public health."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Ebola Virus Disease Data Analysis\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJul 24, 2024\n\n\nTrokon O. Yeabah\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 21, 2024\n\n\nTrokon O. Yeabah\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Ebola Virus Disease Data Analysis",
+    "section": "",
+    "text": "This was a project using the Ebola Virus Disease data from Guinea, Liberia and Sierra Leone. The executable code can be found here."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]
