@@ -1,0 +1,9 @@
+---
+title: "Ebola Virus Disease Data Analysis"
+author: "Trokon O. Yeabah"
+date: "2024-07-24"
+categories: [code, analysis]
+image: "image.jpg"
+---
+
+This was a project using the Ebola Virus Disease data from Guinea, Liberia and Sierra Leone. The executable code can be found [here](https://github.com/toy2022/Ebola_paper){target="_blank"}.

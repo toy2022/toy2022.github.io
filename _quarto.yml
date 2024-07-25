@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Trokon Omarley Yeabah"
+  navbar:
+    left: 
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/toy2022
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

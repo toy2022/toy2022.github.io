@@ -1,0 +1,15 @@
+---
+title: "About"
+image: Trokon_Yeabah_5585-13401200-Horizontal.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/trokon-omarley-yeabah-70784510b/
+    - icon: github
+      text: Github
+      href: https://github.com/toy2022
+---
+
+Trokon Omarley Yeabah is a public health professional with a strong background in data collection, curation, analysis, and management. With expertise in implementing integrated disease surveillance and response activities, he is passionate about sharing insights and experiences to inform and inspire meaningful conversations in the field of public health.
